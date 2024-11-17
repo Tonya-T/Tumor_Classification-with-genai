@@ -602,4 +602,4 @@ for tunnel in tunnels:
 
 # Commented out IPython magic to ensure Python compatibility.
 # %%writefile.env
-# GOOGLE_API_KEY=<AIzaSyA2ucpjDru74rf-YXJ2To9Ufb3XWcWBUAE>
+# GOOGLE_API_KEY=<.....>
